@@ -13,6 +13,7 @@ two
 
 * Ahmed
 - [x] Test
-## Ahmeed >[!note] Hello
+## Ahmeed >[!note] >Hello
 > Ahmed
->[!note] Hello
+>[!NOTE]
+> Hello
