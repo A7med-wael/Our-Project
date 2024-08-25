@@ -15,5 +15,6 @@ two
 - [x] Test
 ## Ahmeed >[!note] >Hello
 
->[!NOTE] >Ebrahem Hegazy Course
+>[!NOTE]
+>Ebrahem Hegazy Course
 
