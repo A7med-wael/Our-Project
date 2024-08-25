@@ -15,5 +15,4 @@ two
 - [x] Test
 ## Ahmeed >[!note] >Hello
 
->[!NOTE]
-> Hello
+>[!NOTE] Ebrahem Hegazy Course
