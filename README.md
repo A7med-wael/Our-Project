@@ -16,5 +16,5 @@ two
 ## Ahmeed >[!note] >Hello
 
 >[!NOTE]
->Ebrahem Hegazy Course
+> **Ebrahem Hegazy Course**
 
